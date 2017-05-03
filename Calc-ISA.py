@@ -3,7 +3,7 @@
 """
 Created on Fri Apr 28 10:34:44 2017
 
-@author: Trevor Gast
+@author: Trevor Gast, who is awesome
 """
 import math
 #constants
